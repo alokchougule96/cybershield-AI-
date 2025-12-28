@@ -1,0 +1,8 @@
+{
+  "name": "CyberShield AI: Integrated Security Suite",
+  "description": "A production-ready cybersecurity platform featuring AI-powered phishing detection, password analysis, privacy scoring, secure document sharing, and spam call detection powered by Gemini.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}

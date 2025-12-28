@@ -1,0 +1,14 @@
+
+/* CyberShield AI Base Styles */
+/* Most styling is handled via Tailwind and internal styles in index.html */
+
+:root {
+  color-scheme: dark;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
